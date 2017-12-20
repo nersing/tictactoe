@@ -2,7 +2,7 @@
   "name": "tictactoe",
   "version": "1.0.0",
   "description": "This game was built using React and has AI capabilities (the user plays against the computer).",
-  "main": "./index.js",
+  "main": "./tictactoe/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
