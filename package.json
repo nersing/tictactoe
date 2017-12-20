@@ -2,7 +2,7 @@
   "name": "tictactoe",
   "version": "1.0.0",
   "description": "This game was built using React and has AI capabilities (the user plays against the computer).",
-  "main": "./tictactoe/index.js",
+  "main": "./tictactoe/src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nersing/tictactoe/issues"
   },
-  "homepage": "https://github.com/nersing/tictactoe#readme"
+  "homepage": "https://github.com/nersing/tictactoe#readme",
+  "dependencies": {
+    "react": "^16.2.0"
+  }
 }
